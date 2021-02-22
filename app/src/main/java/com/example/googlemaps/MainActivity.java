@@ -18,7 +18,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 public class MainActivity extends AppCompatActivity {
-    public static final String LOG = "myLogs";
+    public static final String LOG = "Logs";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
